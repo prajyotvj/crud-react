@@ -1,0 +1,83 @@
+.container {
+  background-color: #aad5fa;
+}
+
+.table-bordered mt-3 {
+  background-color: #aad5fa;
+}
+
+.button {
+  background-color: #010b64;
+  color: white;
+  border: none;
+  padding: 7px 10px 7px 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: white;
+  border: 1px solid #010b64;
+  color: #010b64;
+  transition-duration: 400ms;
+  scale: 110%;
+}
+
+.button-delete {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 7px 10px 7px 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button-delete:hover {
+  background-color: white;
+  border: 1px solid red;
+  color: red;
+  transition-duration: 400ms;
+  scale: 110%;
+}
+
+.button-add {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 7px 10px 7px 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button-add:hover {
+  background-color: white;
+  border: 1px solid green;
+  color: green;
+  transition-duration: 400ms;
+  scale: 105%;
+}
+
+.add-btn-container {
+  height: 55px;
+}
+
+.button-container {
+  height: 45px;
+}
+
+.button-refresh {
+  background-color: #010b64;
+  color: white;
+  border: none;
+  padding: 7px 10px 7px 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button-refresh:hover {
+  background-color: white;
+  border: 1px solid #010b64;
+  color: #010b64;
+  transition-duration: 400ms;
+  scale: 110%;
+}

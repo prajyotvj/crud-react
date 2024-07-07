@@ -1,0 +1,41 @@
+#textarea {
+  height: 150px;
+}
+
+.error-container {
+  color: red;
+}
+
+.container {
+  background-color: #aad5fa;
+}
+
+.heading {
+  color: #010b64;
+}
+
+.input-label {
+  color: #010b64;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #010b64;
+  color: white;
+  border-radius: 0;
+  padding: 7px 10px 7px 10px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: white;
+  border: 1px solid #010b64;
+  color: #010b64;
+  transition-duration: 400ms;
+  scale: 105%;
+}
+
+.button-section {
+  height: 50px;
+}
